@@ -3,7 +3,7 @@
 
 ## Deskripsi Projek 
 
-**API Perpustakaan** adalah sebuah API REST FULL API yang dirancang untuk memudahkan pengelolaan data perpustakaan menggunakan Express JS sebagai framework Node.js. API ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada koleksi buku, anggota,petugas,transaksi dan tagihan peminjaman buku.
+**API Perpustakaan** adalah sebuah Rest Full API yang dirancang untuk memudahkan pengelolaan data perpustakaan menggunakan Express JS sebagai framework Node.js. API ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada koleksi buku, anggota,petugas,transaksi dan tagihan peminjaman buku.
 
 
 ## Fitur
@@ -120,7 +120,7 @@ Jika Anda ingin berkontribusi pada projek ini, silakan lakukan pull request deng
 
 ## Kontak
 
-- **Nama:** Syahrzea Imam Wahyudi
+- **Nama:** Syahreza Imam Wahyudi
 - **Email:** [syahrezaimamwahyudi976@gmail.com](mailto:syahrezaimamwahyudi976@gmail.com)
 - **Website:** [www.https://github.com/Syahrezaimamw.com](https://github.com/Syahrezaimamw)
 
